@@ -1,0 +1,18 @@
+/*custom stylesheet*/
+
+
+.logo {
+	font-size: 3em;
+	color: green;
+	margin: .5em 0;
+	cursor: pointer;
+}
+.header-tags {
+	font-size: 1em;
+}
+h1, h2, h3, h4, h5, h6 {
+	display: -webkit-inline-flex;
+	display: -ms-inline-flexbox;
+	display: inline-flex;
+	margin-left: 2em;
+}
